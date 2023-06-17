@@ -28,7 +28,7 @@ Give some ♥ in the [Discord](https://discord.gg/XF2MCyVpbE).
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=trxppyhxppy/trxppyhxppy)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=trxppyhxppy&left_color=green&right_color=red)
 
 
  
