@@ -28,7 +28,7 @@ Here are a few things I've picked up along the way.
 
 <p align="left">
 <a href="https://github.com/trxppyhxppy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trxppyhxppy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trxppyhxppy&layout=compact&theme=react"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trxppyhxppy&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
