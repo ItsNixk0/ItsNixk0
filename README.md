@@ -1,9 +1,13 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am TrxppyHxppy or Nick 👨‍💻
+# 👋 Hi, I am TrxppyHxppy or Nick 👨‍💻
 
 I am a Software Developer and I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [Discord](https://discord.gg/XF2MCyVpbE)!
+## 🔭 Find me!
+
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/XF2MCyVpbE)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-8526E3?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.com/trxppyhxppy_)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/trxppyhxppy)
 
 
 ## ⚡ Languages and Tools:
@@ -20,9 +24,14 @@ Here are a few things I've picked up along the way.
 
  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/gitlab%20-%23F05033.svg?&style=for-the-badge&logo=gitlab&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?&style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-## 📫 Get in touch
-Give some ♥ in the [Discord](https://discord.gg/XF2MCyVpbE).
+## ⚙️ Profile Stats
 
+<p align="left">
+<a href="https://github.com/trxppyhxppy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trxppyhxppy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trxppyhxppy&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
 
 ## ✅ Profile Visitors
 ![](https://komarev.com/ghpvc/?username=trxppyhxppy&label=Visitors&color=blue&style=plastic)
