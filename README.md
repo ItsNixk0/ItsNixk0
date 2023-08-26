@@ -5,7 +5,7 @@ I am a Software Developer and I am passionate about technologies and love to lea
 
 ## 🔭 Find me!
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/XF2MCyVpbE)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/659864108895698970)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-8526E3?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.com/trxppyhxppy_)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/trxppyhxppy)
 
