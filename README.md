@@ -1,4 +1,4 @@
-# 👋 Hi, I’m TrxppyHxppy (Nick) 👨‍💻  
+# 👋 Hi, I’m Nick 👨‍💻  
 
 Welcome to my GitHub! I’m a **Software Developer** with a passion for **technology** and an endless curiosity to learn new things. Here, you’ll find projects that reflect my skills, interests, and love for problem-solving.  
 
