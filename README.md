@@ -4,6 +4,11 @@ Welcome to my GitHub! I’m a **Software Developer** with a passion for **techno
 
 ---
 
+# My GitHub Stats:
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=trxppyhxppy&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_rank=false)
+
+---
+
 ## ⚡ Knowledge & Tools  
 
 ### 🖥️ **Operating Systems**  
