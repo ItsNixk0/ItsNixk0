@@ -31,4 +31,4 @@ Welcome to my GitHub! I’m a **Software Developer** with a passion for **techno
 ---
 
 ## ✅ Profile Visitors  
-![Profile Visitors](https://komarev.com/ghpvc/?username=trxppyhxppy&label=Visitors&color=blue&style=for-the-badge)  
+![Profile Visitors](https://komarev.com/ghpvc/?username=ItsNixk&label=Visitors&color=blue&style=for-the-badge)  
